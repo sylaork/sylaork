@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylaork&label=Profile%20views&color=0e75b6&style=flat" alt="sylaork" /> </p>
 
-- 🌱 I’m currently working on  **AI/Machine-Deep Learning/Data Science**
+- 🌱 I’m currently working on  **AI/Machine-Deep Learning**
 
 - 📝 I regularly write articles on [https://medium.com/@codesyla](https://medium.com/@codesyla)
 
