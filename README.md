@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylaork&label=Profile%20views&color=0e75b6&style=flat" alt="sylaork" /> </p>
 
 - 🌱 I’m currently working on  **AI/Machine-Deep Learning/NLP**
-
-- 📝 I write articles on [https://medium.com/@codesyla](https://medium.com/@codesyla)
-
 - 📫 How to reach me **silaorak@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
